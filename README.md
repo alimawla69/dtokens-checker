@@ -17,7 +17,7 @@ A advancd package for checking discord tokens fast and easy to use with loging a
 - Support bots-tokens (soon)
 - A output loging system for tokens valid_tokens,invalid_tokens,email_verified,phone_verified,full_verified,not_verified,mfa_enabled,hasnitro
 - A Logger to log everything in console to Logger/23/3/23....txt for every run of the package
-- if you want you can see the [examples folder](https://github.com/alimawla69/dtokens-checker/tree/main/examples)
+- if you want you can see the [examples folder](https://github.com/alimawla69/dtokens-checker/tree/main/example)
 
 # REQUIREMENTS
 - A good internet to check tokens faster and run code faster
@@ -52,7 +52,7 @@ const check = new checker('tokens.txt', {
 });
 check.start()
 ```
-## or you can see the [examples folder](https://github.com/alimawla69/dtokens-checker/tree/main/examples) in the repo
+## or you can see the [examples folder](https://github.com/alimawla69/dtokens-checker/tree/main/example) in the repo
 
 ## Problems, Bugs and Suggestions
 
