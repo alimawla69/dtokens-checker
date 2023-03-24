@@ -1,6 +1,6 @@
 # Dtokens-checker
 <a href="https://nodei.co/npm/dtokens-checker/"><img src="https://nodei.co/npm/dtokens-checker.png"></a><BR>
- <a href="https://www.npmjs.com/package/dtokens-checker"><img src="https://img.shields.io/npm/v/discord-tokens-checker.svg?maxAge=3600" alt="NPM version" /></a>
+ <a href="https://www.npmjs.com/package/dtokens-checker"><img src="https://img.shields.io/npm/v/dtokens-checker.svg?maxAge=3600" alt="NPM version" /></a>
 <a href="https://www.npmjs.com/package/dtokens-checker"><img src="https://img.shields.io/npm/dt/dtokens-checker.svg?maxAge=3600" alt="NPM downloads" /></a>
  <a href="https://github.com/alimawla69/dtokens-checker/"><img src="https://img.shields.io/github/last-commit/alimawla69/dtokens-checker?style=flat" /></a>
   <a href="https://github.com/alimawla69/dtokens-checker/stargazers"><img src="https://img.shields.io/github/stars/alimawla69/dtokens-checker?style=flat" /></a>
